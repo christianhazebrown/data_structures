@@ -1,5 +1,6 @@
 #include <iostream>
 #include <linkedList.h>
+#include <binary_tree.h>
 using namespace std;
 
 int main(int argc, char** argv){
